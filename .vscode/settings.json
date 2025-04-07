@@ -1,3 +1,6 @@
 {
-    "wiz.codePolicies.IAC Configuration": []
+    "wiz.codePolicies.IAC Configuration": [],
+    "wiz.buildPolicies.secrets": [
+        "odluser1671255-secret-block"
+    ]
 }

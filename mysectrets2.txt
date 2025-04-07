@@ -1,0 +1,1 @@
+CONNECT_STRING = "postgresql+psycopg://admin:password1@host4:5432/db4"
